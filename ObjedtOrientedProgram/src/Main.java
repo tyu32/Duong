@@ -2,6 +2,9 @@ import POJO.Dryer;
 import POJO.Washer;
 
 public class Main {
+    // X is XXX
+    // X is object/instance of XXX
+
     public static void main(String[] args) {
         Washer duongWasher = new Washer();
         System.out.println("Duong washer: ");
